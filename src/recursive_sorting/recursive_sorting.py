@@ -1,4 +1,4 @@
-# USEFUL VIDEOS:
+# USEFUL VIDEOS ON MERGE SORTING:
     # https://www.youtube.com/watch?v=xF3TU-QlhJQ
     # https://www.youtube.com/watch?v=4VqmGXwpLqc
 
